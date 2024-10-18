@@ -2,7 +2,6 @@ package com.arif.bootcamp.service;
 
 import com.arif.bootcamp.dto.BaseResponseDto;
 import com.arif.bootcamp.dto.request.ProductRequestDto;
-import com.arif.bootcamp.entity.Product;
 import com.arif.bootcamp.exception.ProductNotFoundException;
 
 public interface ProductService {
